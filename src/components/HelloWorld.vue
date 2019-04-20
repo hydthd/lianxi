@@ -85,7 +85,7 @@
 
 <script>
 export default {
-  name: '哈哈吼吼',
+  name: 'name',
   data () {
     return {
       msg: '欢迎来到你的 Vue.js App'
